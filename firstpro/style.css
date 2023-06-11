@@ -1,0 +1,21 @@
+body {
+    background-color: darkseagreen;
+}
+h1 {
+    background-color:  darkseagreen;
+color: rgb(229, 229, 243);
+}
+h2{
+  background-color:  darkseagreen;
+color: rgb(229, 229, 243);
+}
+h3{
+  background-color:  darkseagreen;
+color: rgb(229, 229, 243);
+}
+hr {
+    background-color: aliceblue;
+    border: none;
+    height: fullpx;
+    width: 30%;
+}
